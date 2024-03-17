@@ -15,7 +15,7 @@ class CalculatorMenu {
     HashMap<String, Double> menu = new HashMap<>();
 
     private final Scanner scanner = new Scanner(System.in);
-    private int person = 1;
+    private int person = 0;
 
     private double sum = 0;
 
